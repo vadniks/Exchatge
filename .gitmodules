@@ -1,0 +1,9 @@
+[submodule "ExchatgeServer"]
+	path = ExchatgeServer
+	url = https://github.com/vadniks/ExchatgeServer
+[submodule "ExchatgeDesktopClient"]
+	path = ExchatgeDesktopClient
+	url = https://github.com/vadniks/ExchatgeDesktopClient
+[submodule "ExchatgeAndroidClient"]
+	path = ExchatgeAndroidClient
+	url = https://github.com/vadniks/ExchatgeAndroidClient
